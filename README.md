@@ -1,2 +1,0 @@
-# shell
-Daily shell script
